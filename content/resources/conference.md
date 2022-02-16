@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture notes about U.S. Commercial Real Estate.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-434j-advanced-topics-in-real-estate-finance-spring-2007/6c215f4a63f77a13729e9230bd27b1b0_conference.pdf
+file: /media/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/6c215f4a63f77a13729e9230bd27b1b0_conference.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: conference.pdf
 uid: 6c215f4a-63f7-7a13-729e-9230bd27b1b0
