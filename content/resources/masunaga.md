@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 40076686-b0da-d412-f36a-860872a5d968
 resourcetype: Document
 title: masunaga.pdf
 uid: 881623a1-9316-aad3-a6c5-89da833e8e6c

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 93cbbe7b-80da-bf2f-0152-ccc3d52a12db
 resourcetype: Document
 title: research_indices.pdf
 uid: 4350398e-df51-9098-1784-f37165eb2e64

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 93cbbe7b-80da-bf2f-0152-ccc3d52a12db
 resourcetype: Document
 title: flexibility2.pdf
 uid: da7fc9ce-9967-f8b9-51fc-202ca65a60a7

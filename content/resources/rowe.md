@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 40076686-b0da-d412-f36a-860872a5d968
 resourcetype: Document
 title: rowe.pdf
 uid: bc987802-8d70-c264-e73a-b994a5cd9638

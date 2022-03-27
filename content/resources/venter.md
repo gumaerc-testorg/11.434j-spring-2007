@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 40076686-b0da-d412-f36a-860872a5d968
 resourcetype: Document
 title: venter.pdf
 uid: c8f3f68b-a810-72d0-f94d-05829ad04c4f

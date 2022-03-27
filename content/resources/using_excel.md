@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 93cbbe7b-80da-bf2f-0152-ccc3d52a12db
 resourcetype: Document
 title: using_excel.pdf
 uid: e2174f8c-e9c0-1ed0-9ffe-775e98120ce5

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 40076686-b0da-d412-f36a-860872a5d968
 resourcetype: Document
 title: diao.pdf
 uid: 98a91231-d873-d954-50d9-ecde8adb0256

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 93cbbe7b-80da-bf2f-0152-ccc3d52a12db
 resourcetype: Document
 title: transactionindex.pdf
 uid: 40014466-0fd0-6f8d-90e3-ea8d84f2ae53
