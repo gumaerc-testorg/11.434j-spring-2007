@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides examples of student work for the course project.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -12,12 +13,12 @@ Student Papers
 
 Each of the papers below is provided courtesy of its respective author and used with permission.
 
-Introduction to CMBS Credit Default Swaps, by Bo Chirathivat ([PDF]({{< baseurl >}}/resources/chirathivat))
+Introduction to CMBS Credit Default Swaps, by Bo Chirathivat ({{% resource_link 233b51fd-6c12-d6c7-dc51-f1ad8a8ec056 "PDF" %}})
 
-Measuring the Impact of Urban Form on Property Values - A Hedonic Price Analysis, by Mi Diao ([PDF]({{< baseurl >}}/resources/diao))
+Measuring the Impact of Urban Form on Property Values - A Hedonic Price Analysis, by Mi Diao ({{% resource_link 98a91231-d873-d954-50d9-ecde8adb0256 "PDF" %}})
 
-Demand Projection in Engineering-based Real Options Model, by Shuichi Masunaga ([PDF]({{< baseurl >}}/resources/masunaga))
+Demand Projection in Engineering-based Real Options Model, by Shuichi Masunaga ({{% resource_link 881623a1-9316-aad3-a6c5-89da833e8e6c "PDF" %}})
 
-Cross-Sectional Analysis of Real Estate Cap Rates: Market Pricing of Expected Income Growth, by Patrick Rowe ([PDF]({{< baseurl >}}/resources/rowe))
+Cross-Sectional Analysis of Real Estate Cap Rates: Market Pricing of Expected Income Growth, by Patrick Rowe ({{% resource_link bc987802-8d70-c264-e73a-b994a5cd9638 "PDF" %}})
 
-An Analysis of the Barriers to Development in the U.S. Commercial Real Estate Derivatives Market, by Jani Venter ([PDF]({{< baseurl >}}/resources/venter))
+An Analysis of the Barriers to Development in the U.S. Commercial Real Estate Derivatives Market, by Jani Venter ({{% resource_link c8f3f68b-a810-72d0-f94d-05829ad04c4f "PDF" %}})

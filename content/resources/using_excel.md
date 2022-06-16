@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes about Engineering Economy Module, Adapted from Prof. Richard
   de Neufville's course ESD.70.
-file: /media/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/e2174f8ce9c01ed09ffe775e98120ce5_using_excel.pdf
+file: /courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/e2174f8ce9c01ed09ffe775e98120ce5_using_excel.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -14,3 +14,5 @@ resourcetype: Document
 title: using_excel.pdf
 uid: e2174f8c-e9c0-1ed0-9ffe-775e98120ce5
 ---
+Lecture notes about Engineering Economy Module, Adapted from Prof. Richard de Neufville's course ESD.70.
+
