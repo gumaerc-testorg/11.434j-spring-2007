@@ -6,6 +6,7 @@ file: /courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/905c53
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: flexibility.pdf
 uid: 905c5337-f127-5896-e4ee-5be56467e7e2
 ---
 Lecture notes about the value of flexibility by guest lecturer Prof. Richard de Neufville, MIT.
-

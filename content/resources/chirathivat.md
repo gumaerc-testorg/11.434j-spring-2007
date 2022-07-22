@@ -6,6 +6,7 @@ file: /courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/233b51
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: chirathivat.pdf
 uid: 233b51fd-6c12-d6c7-dc51-f1ad8a8ec056
 ---
 Example of a completed student project: Introduction to CMBS Credit Default Swaps.
-
