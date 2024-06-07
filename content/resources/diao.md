@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of a completed student project: Measuring the Impact of Urban
   Form on Property Values ? A Hedonic Price Analysis.'
 file: /courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/98a91231d873d95450d9ecde8adb0256_diao.pdf
+file_size: 162239
 file_type: application/pdf
 learning_resource_types:
 - Projects
