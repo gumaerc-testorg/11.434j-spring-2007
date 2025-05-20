@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes about U.S. Commercial Real Estate.
-file: /ol-ocw-studio-app/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/6c215f4a63f77a13729e9230bd27b1b0_conference.pdf
+file: /courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/6c215f4a63f77a13729e9230bd27b1b0_conference.pdf
 file_size: 186145
 file_type: application/pdf
 learning_resource_types:
