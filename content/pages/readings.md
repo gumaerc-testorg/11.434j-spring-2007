@@ -181,10 +181,10 @@ Additional Readings
 
 de Neufville, Richard, Stefan Scholtes, and Tao Wang. "Real Options by Spreadsheet: Parking Garage Case Example." _Journal of Infrastructure Systems_ 12, no. 2 (2006): 107-111.
 
-Fisher, Jeff, David Geltner, and Henry Pollakowski. "[A Quarterly Transactions-Based Index of Institutional Real Estate Investment Performance and Movements in Supply and Demand](https://link.springer.com/article/10.1007/s11146-007-9001-6)." _Journal of Real Estate Finance and Economics_ 34, no. 1 (2007): 5-33.
+Fisher, Jeff, David Geltner, and Henry Pollakowski. "{{% resource_link "81810fce-ba96-4b02-8e12-93197764643d" "A Quarterly Transactions-Based Index of Institutional Real Estate Investment Performance and Movements in Supply and Demand" %}}." _Journal of Real Estate Finance and Economics_ 34, no. 1 (2007): 5-33.
 
-Fisher, Jeff, Dean Gatzlaff, David Geltner, and Donald Haurin. "[Controlling for the Impact of Variable Liquidity in Commercial Real Estate Price Indices](https://doi.org/10.1111/1540-6229.00066)." _Real Estate Economics_ 31, no. 2 (2003): 269-303.
+Fisher, Jeff, Dean Gatzlaff, David Geltner, and Donald Haurin. "{{% resource_link "f0205419-b6d5-43bf-9400-53e816554b71" "Controlling for the Impact of Variable Liquidity in Commercial Real Estate Price Indices" %}}." _Real Estate Economics_ 31, no. 2 (2003): 269-303.
 
-Geltner, David, and David Ling. "[Considerations in the Design and Construction of Investment Real Estate Research Indices](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=951466)." _Journal of Real Estate Research_ 28, no. 4 (2006): 411-444.
+Geltner, David, and David Ling. "{{% resource_link "848a1231-3a62-4068-9290-ab0c9414bf23" "Considerations in the Design and Construction of Investment Real Estate Research Indices" %}}." _Journal of Real Estate Research_ 28, no. 4 (2006): 411-444.
 
 Geltner, David, and Henry Pollakowski. "A Set of Indexes for Trading Commercial Real Estate Based on the Real Capital Analytics Transaction Prices Database." Working paper, MIT Center for Real Estate, 2006.
